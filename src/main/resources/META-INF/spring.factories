@@ -1,0 +1,4 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.lushen.mrh.boot.crypto.CryptoAutoConfiguration,\
+org.lushen.mrh.boot.crypto.TokenAutoConfiguration
